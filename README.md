@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivek-545
-- 👀 I’m interested to create human friendly objeects 
+- 👀 I’m interested to create human friendly objects 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Application And web devloper 
 - 📫 How to reach me [ vivek lohar ] :- LinkedIn.
